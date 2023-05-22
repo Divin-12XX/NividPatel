@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Supervised Learning. <br>👯 I’m looking to collaborate on anything related to CS<br>🤝 I’m looking for help with Web3<br>🌱 I’m currently learning CoreML and ARKit<br>💬 Ask me about Python Development, iOS Development, Full Stack Web Development, ML, and anything related to CS<br>⚡ Fun fact: When I was 10, I thought space complexity is proportional to the number of lines of code written.
+🔭 I’m currently working on Supervised Learning with SKLearn. <br>👯 I’m looking to collaborate on anything related to CS<br>🤝 I’m looking for help with Web3<br>🌱 I’m currently learning CoreML and ARKit<br>💬 Ask me about Python Development, iOS Development, Full Stack Web Development, ML, and anything related to CS<br>⚡ Fun fact: When I was 10, I thought space complexity is proportional to the number of lines of code written.
 
 
 ## 🌐 Socials:
