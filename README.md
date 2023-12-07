@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development. <br>👯 I’m looking to collaborate on anything related to CS<br>🤝 I’m looking for help with Web3<br>💬 Ask me about Python Development,iOS Development, Full Stack Web Development, ML, and anything related to CS<br>
+🔭 I’m currently working on Full Stack Development. <br>👯 I’m looking to collaborate on anything related to CS<br>🤝 I’m looking for help with Web3<br>💬 Ask me about Python Development, iOS Development, Full Stack Web Development, ML, and anything related to CS<br>
 
 
 ## 🌐 Socials:
